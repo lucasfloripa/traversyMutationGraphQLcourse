@@ -1,0 +1,28 @@
+{
+  "customers": [
+    {
+      "id": "3",
+      "name": "Sarah Willians",
+      "email": "sara@gmail.com",
+      "age": 12
+    },
+    {
+      "id": "4",
+      "name": "Lucas Gonçalves",
+      "email": "lgoncalves@gmail.com",
+      "age": 29
+    },
+    {
+      "id": "5",
+      "name": "Rose Duarte da Silva Gonçalves",
+      "email": "rdsg@gmail.com",
+      "age": 57
+    },
+    {
+      "name": "jucelio",
+      "email": "jucelio@ifsc.com.br",
+      "age": 57,
+      "id": "GriCBdF"
+    }
+  ]
+}
